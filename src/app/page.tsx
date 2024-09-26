@@ -31,14 +31,14 @@ export default function Home() {
           href={LEGACY.HOME}
           className="text-background bg-foreground w-full p-3 rounded-xl text-lg text-center font-medium"
         >
-          Find my dream trip
+          Find my dream trip (lame)
         </Link>
 
         <Link
           href={GEMINI.HOME}
           className="w-full p-3 rounded-xl text-lg text-center font-medium gradient text-background animate-shadow"
         >
-          Plan my dream trip with AI
+          Plan my dream trip with AI (cool!)
         </Link>
       </section>
     </main>
